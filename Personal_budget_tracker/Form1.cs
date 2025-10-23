@@ -11,7 +11,7 @@ namespace Personal_budget_tracker
         {
             InitializeComponent();
 
-            // Wire expense button (designer already wired Add Income -> button1_Click)
+            
             btnAddExpenses.Click += BtnAddExpenses_Click;
 
             
@@ -66,13 +66,13 @@ namespace Personal_budget_tracker
             totalExpenses += amount;
             UpdateTotalsLabels();
 
-            // Optionally clear description and amount
+            
             tbxExpenseDesc.Clear();
             tbxExpenseAmt.Clear();
             tbxExpenseDesc.Focus();
         }
 
-        // Helper: culture-aware amount parsing (falls back to invariant)
+
         private static bool TryParseAmount(string? text, out decimal amount)
         {
             amount = 0m;
@@ -96,3 +96,4 @@ namespace Personal_budget_tracker
         }
     }
 }
+
