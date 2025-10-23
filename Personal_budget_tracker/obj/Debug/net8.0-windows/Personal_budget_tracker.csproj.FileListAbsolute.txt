@@ -1,0 +1,17 @@
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\bin\Debug\net8.0-windows\Personal_budget_tracker.exe
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\bin\Debug\net8.0-windows\Personal_budget_tracker.deps.json
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\bin\Debug\net8.0-windows\Personal_budget_tracker.runtimeconfig.json
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\bin\Debug\net8.0-windows\Personal_budget_tracker.dll
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\bin\Debug\net8.0-windows\Personal_budget_tracker.pdb
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.Form1.resources
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.csproj.GenerateResource.cache
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.AssemblyInfoInputs.cache
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.AssemblyInfo.cs
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.csproj.CoreCompileInputs.cache
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.sourcelink.json
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.dll
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\refint\Personal_budget_tracker.dll
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.pdb
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\Personal_budget_tracker.genruntimeconfig.cache
+C:\Users\Baluds\source\repos\Personal_budget_tracker\Personal_budget_tracker\obj\Debug\net8.0-windows\ref\Personal_budget_tracker.dll
